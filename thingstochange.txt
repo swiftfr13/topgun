@@ -1,0 +1,8 @@
+double buffering
+economy game mode
+health view
+rotation
+singleplay
+music
+sound
+turn rate
